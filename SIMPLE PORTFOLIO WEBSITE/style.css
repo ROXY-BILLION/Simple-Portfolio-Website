@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+header h1{
+    display: inline-block;
+}
+
+nav{
+    display: inline-block;
+    margin-left: 300px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 120px 20px;
+}
+
+.about,
+.skills,
+.projects{
+    padding: 80px 20px;
+    text-align: center;
+}
+
+
